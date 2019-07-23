@@ -1,0 +1,15 @@
+npm i morgan --save-dev
+npm i body-parser express wagner-core path http-status mongoose underscore
+
+E1-
+*insertar
+*comentar
+*consulta comentarios
+*calificacion global
+
+E2-
+*insertar
+*buscar por keyword
+*calificacion global
+*insertar keyword
+
